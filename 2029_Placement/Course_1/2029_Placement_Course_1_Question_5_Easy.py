@@ -105,6 +105,7 @@ for i in range(high, low - 1, -1):
     if i != num:
         print(i, end=" ")
 print()
+Copy Code
 Run Code
 '''
 
