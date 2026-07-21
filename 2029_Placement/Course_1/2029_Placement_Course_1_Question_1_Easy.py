@@ -69,8 +69,15 @@ Skip Quiz navigation
 4
 5
 Finish attempt ...
+1
+2
+3
+number = input()
+for digit in number:
+    print(digit)
 Run Code
-Ace editor not ready. Perhaps reload page?
-Falling back to raw text area.
 '''
 
+number = input()
+for digit in number:
+    print(digit)
